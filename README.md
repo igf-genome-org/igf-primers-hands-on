@@ -1,5 +1,7 @@
 # igf-primers-hands-on
 
+>Jangan lupa gunakan `conda init` dan membuka ulang terminal di codespace.
+
 Buat dan aktivasi conda environment dari resep dengan cara.
 
 ```bash
